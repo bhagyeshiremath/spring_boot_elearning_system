@@ -32,7 +32,7 @@ Very Simple Elearning System developed in Spring Boot
   </li>
   <li>
     Admin Can:
-    <ul>
+    <ul>.
       <li>
         Register himself
       </li>
